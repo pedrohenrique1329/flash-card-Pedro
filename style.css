@@ -1,12 +1,12 @@
 :root {
 --text-color: black;
---card-front-color: burlywood;
---card-back-color: orangered;
+--card-front-color: lab(74.93% -18.82 -31.22);
+--card-back-color: rgb(157, 0, 255);
 }
 
 
 body {
-    background-color: rgb(249, 57, 4);
+    background-color: rgb(23, 6, 97);
     font-family: Bai Jamjuree;
 }
 
@@ -98,8 +98,8 @@ height: 1rem;
  
 footer p {
     text-align: center;
-    font-size: 0.5rem;
-    margin-top: 0.5rem;
+    font-size: 0.1rem;
+    margin-top: 0.1rem;
 }
 
 @media (max-width: 560px) {
@@ -113,10 +113,10 @@ footer p {
 }
 
 .cartao__conteudo h3 {
- font-size: 3vw;
+ font-size: 1vw;
 }
 
 .cartao__conteudo p {
-    font-size: 3.8vw;
+    font-size: 1vw;
 }
 }
