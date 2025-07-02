@@ -61,7 +61,7 @@ font-size: 1.4vw;
 
 .cartao__conteudo__resposta p {
     color: var(--card-front-color);
-    font-weight: 700;
+    font-weight: 100;
 }
 
 .cartao.active .cartao__conteudo {
